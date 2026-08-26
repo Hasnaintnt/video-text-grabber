@@ -147,7 +147,7 @@ video-text-grabber/
 
 ## 👤 Author
 
-**Hasnain** — [@Hasnaintnt](https://github.com/Hasnaintnt)
+**Hasnain** — [@hasnain607](https://github.com/hasnain607)
 
 ---
 
